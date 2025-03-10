@@ -438,12 +438,12 @@ footer {
 
 @font-face {
   font-family: "Kaushan Script";
-  src: url(/assets/images/KaushanScript-Regular.ttf);
+  src: url(assets/images/KaushanScript-Regular.ttf);
 }
 
 @font-face {
   font-family: "Allan";
-  src: url(/assets/images/Allan-Regular.ttf);
+  src: url(assets/images/Allan-Regular.ttf);
 }
 
 .kaushan-font {
